@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980815561044",
+    "project_id": "atodo-15726",
+    "storage_bucket": "atodo-15726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980815561044:android:6a78f6748c18ee525888c1",
+        "android_client_info": {
+          "package_name": "com.example.atodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980815561044-mef1g38usnm7rs87knuti2q0ea9q1vmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5CJEuSO1j4EpLvys4eEXTbW_JTBSLMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980815561044-mef1g38usnm7rs87knuti2q0ea9q1vmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
